@@ -1,0 +1,64 @@
+table {
+    margin-left: 200px;
+    width: 350px;
+    margin-top: 40px;
+    padding: 3px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    background-color: rgb(46, 59, 59);
+    height :25%;
+    
+  }
+  
+
+  table th,
+  table td {
+    padding: 8px;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000000;
+  }
+  
+  table th {
+    background-color: rgb(46, 59, 59);
+    
+    color: #f8f4f4;
+  }
+
+  .parentStudent{
+    margin: -8rem -10.5rem;
+    display: inline-block;
+  }
+
+.head{
+    width: 14rem;
+    margin:9rem 11rem;
+    margin-top: 2rem;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .parr{
+    height: 52%;
+    width: 40%;
+    margin: 8rem 11rem;
+    background-color: rgb(46, 59, 59);
+    border: 2px solid rgb(234, 230, 230);
+    border-radius: 60px 70px 40px 140px;
+  }
+
+  .btnStudent{
+    margin: 2rem 13rem;
+    background-color: #000000;
+    color: white;
+    border-radius: 10px;
+  }
+
+  .btnStudent:hover{
+    background-color: rgb(31, 27, 27);
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+
+  }

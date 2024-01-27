@@ -1,0 +1,41 @@
+
+  .edit1{
+    border: 2px solid rgb(255, 255, 255);
+    margin: 5rem 20rem;
+    height: 39rem;
+    width: 28rem;
+    background-color: rgb(46, 59, 59);
+    border-radius: 50px 80px 70px 10px;
+  }
+
+  .editform{
+    margin: 2rem -10rem;
+  }
+
+  .h2edit{
+    margin: 2rem 9rem;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .input1{ background-color: rgb(46, 59, 59);
+    
+}
+
+.editbtn1{
+    background-color: black;
+  color: #ffffff;
+  border-radius: 5px;
+  border: #ffffff;
+  height: 40px;
+  width: 100px;
+  margin: 5px 18px;
+
+}
+
+.editbtn1:hover{
+    background-color: rgb(31, 27, 27);
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+}

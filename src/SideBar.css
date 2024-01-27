@@ -1,0 +1,11 @@
+.sidebar{
+    position: absolute;
+    height: 50vh;
+}
+
+
+
+:disabled {
+    color: white;
+    border-radius: 10px;
+  }

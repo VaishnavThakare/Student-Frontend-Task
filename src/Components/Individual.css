@@ -1,0 +1,35 @@
+.individual{
+    margin: 7rem 17rem;
+    border: 2px solid rgb(246, 246, 246);
+    height: 35rem;
+    width: 30rem;
+    background-color: rgb(46, 59, 59);
+    border-radius: 50px 80px 70px 10px;
+}
+
+.newIndividual{
+    margin: 2rem -8rem;
+}
+
+.h2individual{
+    margin:3rem 6.7rem;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.btnIndividual{
+    background-color: black;
+  color: #ffffff;
+  border-radius: 5px;
+  border: #ffffff;
+  height: 40px;
+  width: 100px;
+  margin: 1rem 19rem;
+}
+
+.btnIndividual:hover{
+    background-color: rgb(31, 27, 27);
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+}
