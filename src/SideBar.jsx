@@ -117,9 +117,9 @@ const SideBar = ({ isAdmin, setIsAdmin, selectedTab, setSelectedTab }) => {
         </ul>
         <hr />
       </div>
-      <form class="d-flex" role="search">
+      <form className="d-flex" role="search">
         <input
-          class="form-control me-0.5"
+          className="form-control me-0.5"
           type="search"
           placeholder="Search"
           aria-label="Search"
@@ -129,7 +129,7 @@ const SideBar = ({ isAdmin, setIsAdmin, selectedTab, setSelectedTab }) => {
           onClick={() => {
             setSelectedTab("Search");
           }}
-          class="btn btn-outline-success"
+          className="btn btn-outline-success"
           style={{ margin: "10px 0px", height: "2.5rem" }}
           type="submit"
         >
